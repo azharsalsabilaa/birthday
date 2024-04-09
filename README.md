@@ -2,4 +2,4 @@
 
 ### Wish someone special happy birthday in a special way.
 
-#### [See it Live](https://github.com/azharsalsabilaa/birthday.git)
+#### [See it Live](https://azharsalsabilaa.github.io/birthday/)
